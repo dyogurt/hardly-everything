@@ -8,14 +8,14 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 9,
+    "visited": 11,
     "timeRange": 71,
     "url": "https://thegallery.io",
     "id": "8e41ce96-32a6-487a-baf1-522c412796a5",
     "content": {},
     "dateAdded": "2020-01-22T15:33:08.567Z",
-    "dateUpdated": "2020-09-18T10:13:51.232Z",
-    "dateDismissed": "2020-09-23T10:13:51.232Z"
+    "dateUpdated": "2021-02-02T21:51:41.126Z",
+    "dateDismissed": "2021-02-02T21:51:41.126Z"
   },
   "a35f91d1-d1e0-433e-968b-f37c30288d1e": {
     "title": "Low Tech Magazine",
@@ -26,14 +26,14 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 8,
+    "visited": 10,
     "timeRange": 73,
     "url": "https://solar.lowtechmagazine.com",
     "id": "a35f91d1-d1e0-433e-968b-f37c30288d1e",
     "content": {},
     "dateAdded": "2020-01-23T13:46:01.044Z",
-    "dateUpdated": "2020-07-28T14:44:38.671Z",
-    "dateDismissed": "2020-07-28T14:44:38.671Z"
+    "dateUpdated": "2021-02-08T19:43:51.028Z",
+    "dateDismissed": "2021-02-08T19:43:51.029Z"
   },
   "22e72ae2-7bd3-4661-ab45-ee013d8820d7": {
     "title": "Jon Kyle",
@@ -44,21 +44,21 @@
     ],
     "duration": 4,
     "interval": "months",
-    "visited": 7,
+    "visited": 8,
     "timeRange": 86,
     "url": "https://jon-kyle.com/entries",
     "id": "22e72ae2-7bd3-4661-ab45-ee013d8820d7",
     "content": {},
     "dateAdded": "2020-02-21T22:44:40.671Z",
-    "dateUpdated": "2020-06-23T14:28:19.726Z",
-    "dateDismissed": "2020-06-05T19:05:31.893Z"
+    "dateUpdated": "2021-01-04T21:31:25.191Z",
+    "dateDismissed": "2021-01-04T21:31:25.191Z"
   },
   "a41dd69b-31d0-4ccc-9efa-845ff3f97dda": {
     "id": "a41dd69b-31d0-4ccc-9efa-845ff3f97dda",
     "content": {},
     "dateAdded": "2020-02-24T11:25:14.310Z",
-    "dateUpdated": "2020-07-28T14:45:23.444Z",
-    "dateDismissed": "2020-08-01T14:45:23.444Z",
+    "dateUpdated": "2021-02-03T22:11:33.866Z",
+    "dateDismissed": "2021-02-03T22:11:33.866Z",
     "title": "The Book of Life",
     "tags": [
       "life",
@@ -68,7 +68,7 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 6,
+    "visited": 8,
     "timeRange": 71,
     "url": "https://theschooloflife.com/thebookoflife"
   },
@@ -99,14 +99,14 @@
     ],
     "duration": 26,
     "interval": "days",
-    "visited": 6,
+    "visited": 8,
     "timeRange": 52,
     "url": "http://propspaper.com",
     "id": "5bafd827-2558-4c0e-b910-78bd990db602",
     "content": {},
     "dateAdded": "2020-03-03T10:31:09.539Z",
-    "dateUpdated": "2020-09-18T10:14:46.304Z",
-    "dateDismissed": "2020-09-19T10:14:46.304Z"
+    "dateUpdated": "2021-01-30T14:27:08.280Z",
+    "dateDismissed": "2021-01-30T14:27:08.280Z"
   },
   "2a96c234-ed90-4a1a-a381-233dc802fa0b": {
     "title": "Manuel Moreale",
@@ -118,21 +118,21 @@
     ],
     "duration": 5,
     "interval": "weeks",
-    "visited": 7,
+    "visited": 9,
     "timeRange": 76,
     "url": "https://manuelmoreale.com",
     "id": "2a96c234-ed90-4a1a-a381-233dc802fa0b",
     "content": {},
     "dateAdded": "2020-03-03T14:47:31.276Z",
-    "dateUpdated": "2020-09-18T10:14:34.259Z",
-    "dateDismissed": "2020-09-18T10:14:34.259Z"
+    "dateUpdated": "2021-02-08T19:43:39.977Z",
+    "dateDismissed": "2021-02-08T19:43:39.977Z"
   },
   "2566a352-1c60-496a-b99a-caa9b6631a0d": {
     "id": "2566a352-1c60-496a-b99a-caa9b6631a0d",
     "content": {},
     "dateAdded": "2020-03-03T17:27:21.726Z",
-    "dateUpdated": "2020-07-28T14:40:47.236Z",
-    "dateDismissed": "2020-07-28T14:40:47.236Z",
+    "dateUpdated": "2021-01-30T14:26:28.902Z",
+    "dateDismissed": "2021-01-30T14:26:28.902Z",
     "title": "iso 50",
     "tags": [
       "music",
@@ -141,7 +141,7 @@
     ],
     "duration": 3,
     "interval": "weeks",
-    "visited": 6,
+    "visited": 8,
     "timeRange": 70,
     "url": "http://blog.iso50.com"
   },
@@ -149,8 +149,8 @@
     "id": "90c89000-2130-472a-adb7-4ef0b1a7e2f5",
     "content": {},
     "dateAdded": "2020-03-08T11:04:13.590Z",
-    "dateUpdated": "2020-07-28T14:46:37.351Z",
-    "dateDismissed": "2020-07-30T14:46:37.351Z",
+    "dateUpdated": "2021-02-06T17:28:19.727Z",
+    "dateDismissed": "2021-02-06T17:28:19.727Z",
     "title": "Portugal Climate",
     "tags": [
       "climate",
@@ -158,7 +158,7 @@
     ],
     "duration": 1,
     "interval": "months",
-    "visited": 5,
+    "visited": 7,
     "timeRange": 80,
     "url": "http://portaldoclima.pt/en"
   },
@@ -166,8 +166,8 @@
     "id": "42a44198-7148-4931-b9ab-fad4bd9fb496",
     "content": {},
     "dateAdded": "2020-03-12T19:34:29.306Z",
-    "dateUpdated": "2020-07-28T14:44:46.996Z",
-    "dateDismissed": "2020-08-01T14:44:46.996Z",
+    "dateUpdated": "2021-02-06T21:56:42.853Z",
+    "dateDismissed": "2021-02-06T21:56:42.854Z",
     "title": "Craig Mod - Roden",
     "tags": [
       "writing",
@@ -176,7 +176,7 @@
     ],
     "duration": 1,
     "interval": "months",
-    "visited": 5,
+    "visited": 7,
     "timeRange": 80,
     "url": "https://craigmod.com/roden"
   },
@@ -184,8 +184,8 @@
     "id": "d8127ceb-a178-4bdb-8305-10c4a9252d5b",
     "content": {},
     "dateAdded": "2020-03-21T19:59:31.371Z",
-    "dateUpdated": "2020-06-23T14:28:21.717Z",
-    "dateDismissed": "2020-06-25T14:28:21.717Z",
+    "dateUpdated": "2021-01-04T21:31:27.681Z",
+    "dateDismissed": "2021-01-04T21:31:27.681Z",
     "title": "Meg Miller",
     "tags": [
       "articles",
@@ -194,7 +194,7 @@
     ],
     "duration": 3,
     "interval": "months",
-    "visited": 2,
+    "visited": 3,
     "timeRange": 85,
     "url": "http://megmiller.world/works"
   },
@@ -202,8 +202,8 @@
     "id": "0f5ccc9e-2808-4fa0-ac45-10d2f7eb73be",
     "content": {},
     "dateAdded": "2020-04-08T15:31:06.650Z",
-    "dateUpdated": "2020-07-28T14:48:16.390Z",
-    "dateDismissed": "2020-07-29T14:48:16.390Z",
+    "dateUpdated": "2021-02-04T22:46:37.206Z",
+    "dateDismissed": "2021-02-04T22:46:37.206Z",
     "title": "DOP",
     "tags": [
       "images",
@@ -213,26 +213,9 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 4,
+    "visited": 7,
     "timeRange": 71,
     "url": "https://doorofperception.com/page/2"
-  },
-  "317857b5-5601-4f4f-8498-36d7cb83b752": {
-    "id": "317857b5-5601-4f4f-8498-36d7cb83b752",
-    "content": {},
-    "dateAdded": "2020-04-22T17:35:40.766Z",
-    "dateUpdated": "2020-07-28T14:40:42.959Z",
-    "dateDismissed": "2020-07-29T14:40:42.959Z",
-    "title": "Collections at the Department of Typography",
-    "tags": [
-      "Typography",
-      "Collections"
-    ],
-    "duration": 3,
-    "interval": "months",
-    "visited": 2,
-    "timeRange": 84,
-    "url": "http://reading.ac.uk/typography/collectionsandarchives/typ-collections.aspx"
   },
   "5cece445-357c-44f9-9dcf-e22dc3731376": {
     "title": "Jangada da Tijuca",
@@ -242,21 +225,21 @@
     ],
     "duration": 6,
     "interval": "weeks",
-    "visited": 4,
+    "visited": 5,
     "timeRange": 78,
     "url": "https://jangadadatijuca.blogspot.com",
     "id": "5cece445-357c-44f9-9dcf-e22dc3731376",
     "content": {},
     "dateAdded": "2020-05-20T19:23:33.840Z",
-    "dateUpdated": "2020-09-18T10:16:55.336Z",
-    "dateDismissed": "2020-09-22T10:16:16.756Z"
+    "dateUpdated": "2021-01-04T21:31:08.330Z",
+    "dateDismissed": "2021-01-04T21:31:08.330Z"
   },
   "dc214a34-1819-4b28-9aad-adffb4735f0e": {
     "id": "dc214a34-1819-4b28-9aad-adffb4735f0e",
     "content": {},
     "dateAdded": "2020-06-04T19:17:30.002Z",
-    "dateUpdated": "2020-08-06T15:30:16.089Z",
-    "dateDismissed": "2020-08-08T15:30:16.089Z",
+    "dateUpdated": "2021-02-03T22:01:15.127Z",
+    "dateDismissed": "2021-02-03T22:01:15.127Z",
     "title": "HOVERSTAT.ES",
     "tags": [
       "webdesign",
@@ -264,7 +247,7 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 3,
+    "visited": 5,
     "timeRange": 73,
     "url": "https://hoverstat.es/archive"
   },
@@ -277,21 +260,21 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 4,
+    "visited": 6,
     "timeRange": 72,
     "url": "https://edge.org",
     "id": "b07f68dd-4c70-4836-915b-8a91d90dc292",
     "content": {},
     "dateAdded": "2020-06-11T15:36:57.195Z",
-    "dateUpdated": "2020-09-18T10:14:37.897Z",
-    "dateDismissed": "2020-09-20T10:14:37.897Z"
+    "dateUpdated": "2021-02-02T21:55:40.987Z",
+    "dateDismissed": "2021-02-02T21:55:40.987Z"
   },
   "9c32de66-c309-468b-be3a-21bfc8f92145": {
     "id": "9c32de66-c309-468b-be3a-21bfc8f92145",
     "content": {},
     "dateAdded": "2020-06-24T11:21:37.745Z",
-    "dateUpdated": "2020-08-06T15:39:57.222Z",
-    "dateDismissed": "2020-08-10T15:39:57.222Z",
+    "dateUpdated": "2021-01-04T21:31:28.336Z",
+    "dateDismissed": "2021-01-04T21:31:28.336Z",
     "title": "Gauthier Roussilhe",
     "tags": [
       "design",
@@ -299,26 +282,168 @@
     ],
     "duration": 6,
     "interval": "weeks",
-    "visited": 2,
+    "visited": 3,
     "timeRange": 77,
     "url": "http://gauthierroussilhe.com/en"
   },
-  "2a9c6bc9-9dcc-4ce9-a5b7-e0a4ac49f03a": {
-    "id": "2a9c6bc9-9dcc-4ce9-a5b7-e0a4ac49f03a",
+  "7443d0d9-1da0-4a4e-9dfa-02a540e4f66a": {
+    "id": "7443d0d9-1da0-4a4e-9dfa-02a540e4f66a",
     "content": {},
-    "dateAdded": "2020-07-03T11:36:03.347Z",
-    "dateUpdated": "2020-07-21T16:42:37.469Z",
-    "dateDismissed": "2020-07-25T16:42:37.469Z",
-    "title": "Works that Work",
+    "dateAdded": "2021-01-10T21:23:10.382Z",
+    "dateUpdated": "2021-01-12T21:56:51.658Z",
+    "dateDismissed": "2021-01-12T21:56:51.659Z",
+    "title": "Increment",
     "tags": [
-      "design",
       "magazine",
+      "software",
       "article"
+    ],
+    "duration": 3,
+    "interval": "months",
+    "visited": 1,
+    "timeRange": 85,
+    "url": "https://increment.com"
+  },
+  "9144d0db-c756-4d92-ba54-bd33c70651b4": {
+    "id": "9144d0db-c756-4d92-ba54-bd33c70651b4",
+    "content": {},
+    "dateAdded": "2021-01-12T22:35:08.647Z",
+    "dateUpdated": "2021-01-29T19:46:01.522Z",
+    "dateDismissed": "2021-01-29T19:46:01.522Z",
+    "title": "Reasons to be cheerful",
+    "tags": [
+      "news",
+      "editorial",
+      "happy"
+    ],
+    "duration": 2,
+    "interval": "weeks",
+    "visited": 2,
+    "timeRange": 66,
+    "url": "https://reasonstobecheerful.world"
+  },
+  "f68db81f-2fb4-4540-bdd6-cd4589c9b7c1": {
+    "id": "f68db81f-2fb4-4540-bdd6-cd4589c9b7c1",
+    "content": {},
+    "dateAdded": "2021-01-30T14:26:25.832Z",
+    "dateUpdated": "2021-01-30T14:26:27.786Z",
+    "dateDismissed": "2021-01-30T14:26:27.787Z",
+    "title": "Collletttivo",
+    "tags": [
+      "typography",
+      "design"
+    ],
+    "duration": 4,
+    "interval": "weeks",
+    "visited": 1,
+    "timeRange": 72,
+    "url": "http://collletttivo.it"
+  },
+  "d4cbfffa-a128-4dd4-81bc-e7937b64f679": {
+    "id": "d4cbfffa-a128-4dd4-81bc-e7937b64f679",
+    "content": {},
+    "dateAdded": "2021-01-30T15:03:40.966Z",
+    "dateUpdated": "2021-01-30T15:03:45.116Z",
+    "dateDismissed": "2021-01-30T15:03:45.116Z",
+    "title": "Slow immediate",
+    "tags": [
+      "experimental",
+      "computer",
+      "digital"
+    ],
+    "duration": 3,
+    "interval": "months",
+    "visited": 1,
+    "timeRange": 85,
+    "url": "https://slowimmediate.com"
+  },
+  "b76ecda0-a8f6-47cb-a307-f02f8d5e548d": {
+    "id": "b76ecda0-a8f6-47cb-a307-f02f8d5e548d",
+    "content": {},
+    "dateAdded": "2021-02-06T17:29:56.383Z",
+    "dateUpdated": "2021-02-06T17:29:59.033Z",
+    "dateDismissed": "2021-02-06T17:29:59.033Z",
+    "title": "Works that work",
+    "tags": [
+      "magazine",
+      "design",
+      "activism"
+    ],
+    "duration": 2,
+    "interval": "months",
+    "visited": 1,
+    "timeRange": 83,
+    "url": "https://worksthatwork.com/articles"
+  },
+  "347b4292-31f3-4676-87d8-983a36c16cff": {
+    "id": "347b4292-31f3-4676-87d8-983a36c16cff",
+    "content": {},
+    "dateAdded": "2021-02-07T20:12:42.339Z",
+    "dateUpdated": "2021-02-08T19:43:59.264Z",
+    "dateDismissed": "2021-02-08T19:43:59.264Z",
+    "title": "Climate & Mind",
+    "tags": [
+      "climate",
+      "blog",
+      "mind",
+      "social"
+    ],
+    "duration": 6,
+    "interval": "weeks",
+    "visited": 1,
+    "timeRange": 77,
+    "url": "https://climateandmind.org"
+  },
+  "66c27081-70b9-46f2-9976-694b5a47bab3": {
+    "id": "66c27081-70b9-46f2-9976-694b5a47bab3",
+    "content": {},
+    "dateAdded": "2021-02-07T20:21:20.964Z",
+    "dateUpdated": "2021-02-08T19:43:37.006Z",
+    "dateDismissed": "2021-02-08T19:43:37.006Z",
+    "title": "The Walrus",
+    "tags": [
+      "Newspaper"
+    ],
+    "duration": 2,
+    "interval": "weeks",
+    "visited": 1,
+    "timeRange": 66,
+    "url": "https://thewalrus.ca"
+  },
+  "47d77ed9-31e5-4924-8930-e80c4b031ba7": {
+    "title": "Jacobin Magazine",
+    "tags": [
+      "magazine",
+      "politics"
     ],
     "duration": 1,
     "interval": "months",
     "visited": 1,
     "timeRange": 81,
-    "url": "https://worksthatwork.com"
+    "url": "https://jacobinmag.com",
+    "id": "47d77ed9-31e5-4924-8930-e80c4b031ba7",
+    "content": {},
+    "dateAdded": "2021-02-09T19:53:46.407Z",
+    "dateUpdated": "2021-02-10T13:08:13.649Z",
+    "dateDismissed": "2021-02-10T13:08:13.649Z"
+  },
+  "4ac04976-a539-4c6c-bd11-50c32b8fe9b6": {
+    "id": "4ac04976-a539-4c6c-bd11-50c32b8fe9b6",
+    "content": {},
+    "dateAdded": "2021-02-10T13:17:54.269Z",
+    "dateUpdated": "2021-02-10T13:17:57.328Z",
+    "dateDismissed": "2021-02-10T13:17:57.328Z",
+    "title": "Nono Martínez",
+    "tags": [
+      "design",
+      "blog",
+      "art",
+      "minimalism"
+    ],
+    "duration": 1,
+    "interval": "months",
+    "visited": 1,
+    "timeRange": 80,
+    "url": "https://nono.ma/says"
   }
 }
