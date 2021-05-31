@@ -26,14 +26,14 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 12,
+    "visited": 13,
     "timeRange": 73,
     "url": "https://solar.lowtechmagazine.com",
     "id": "a35f91d1-d1e0-433e-968b-f37c30288d1e",
     "content": {},
     "dateAdded": "2020-01-23T13:46:01.044Z",
-    "dateUpdated": "2021-04-22T20:22:23.305Z",
-    "dateDismissed": "2021-04-22T20:22:23.305Z"
+    "dateUpdated": "2021-05-30T18:23:33.072Z",
+    "dateDismissed": "2021-05-30T18:23:33.073Z"
   },
   "22e72ae2-7bd3-4661-ab45-ee013d8820d7": {
     "title": "Jon Kyle",
@@ -44,14 +44,14 @@
     ],
     "duration": 4,
     "interval": "months",
-    "visited": 8,
+    "visited": 9,
     "timeRange": 86,
     "url": "https://jon-kyle.com/entries",
     "id": "22e72ae2-7bd3-4661-ab45-ee013d8820d7",
     "content": {},
     "dateAdded": "2020-02-21T22:44:40.671Z",
-    "dateUpdated": "2021-01-04T21:31:25.191Z",
-    "dateDismissed": "2021-01-04T21:31:25.191Z"
+    "dateUpdated": "2021-05-16T14:04:20.706Z",
+    "dateDismissed": "2021-05-16T14:04:20.707Z"
   },
   "a41dd69b-31d0-4ccc-9efa-845ff3f97dda": {
     "id": "a41dd69b-31d0-4ccc-9efa-845ff3f97dda",
@@ -100,21 +100,21 @@
     ],
     "duration": 5,
     "interval": "weeks",
-    "visited": 11,
+    "visited": 12,
     "timeRange": 76,
     "url": "https://manuelmoreale.com",
     "id": "2a96c234-ed90-4a1a-a381-233dc802fa0b",
     "content": {},
     "dateAdded": "2020-03-03T14:47:31.276Z",
-    "dateUpdated": "2021-04-22T20:26:14.071Z",
-    "dateDismissed": "2021-04-22T20:26:14.071Z"
+    "dateUpdated": "2021-05-30T18:24:15.347Z",
+    "dateDismissed": "2021-05-30T18:24:15.347Z"
   },
   "2566a352-1c60-496a-b99a-caa9b6631a0d": {
     "id": "2566a352-1c60-496a-b99a-caa9b6631a0d",
     "content": {},
     "dateAdded": "2020-03-03T17:27:21.726Z",
-    "dateUpdated": "2021-04-22T20:22:30.749Z",
-    "dateDismissed": "2021-04-22T20:22:30.749Z",
+    "dateUpdated": "2021-05-16T14:04:18.403Z",
+    "dateDismissed": "2021-05-16T14:04:18.403Z",
     "title": "iso 50",
     "tags": [
       "music",
@@ -123,7 +123,7 @@
     ],
     "duration": 3,
     "interval": "weeks",
-    "visited": 11,
+    "visited": 12,
     "timeRange": 70,
     "url": "http://blog.iso50.com"
   },
@@ -131,8 +131,8 @@
     "id": "90c89000-2130-472a-adb7-4ef0b1a7e2f5",
     "content": {},
     "dateAdded": "2020-03-08T11:04:13.590Z",
-    "dateUpdated": "2021-04-07T09:25:14.512Z",
-    "dateDismissed": "2021-04-07T09:25:14.512Z",
+    "dateUpdated": "2021-05-16T14:04:20.202Z",
+    "dateDismissed": "2021-05-16T14:04:20.203Z",
     "title": "Portugal Climate",
     "tags": [
       "climate",
@@ -140,7 +140,7 @@
     ],
     "duration": 1,
     "interval": "months",
-    "visited": 9,
+    "visited": 10,
     "timeRange": 80,
     "url": "http://portaldoclima.pt/en"
   },
@@ -148,8 +148,8 @@
     "id": "42a44198-7148-4931-b9ab-fad4bd9fb496",
     "content": {},
     "dateAdded": "2020-03-12T19:34:29.306Z",
-    "dateUpdated": "2021-04-07T09:27:26.586Z",
-    "dateDismissed": "2021-04-07T09:27:26.586Z",
+    "dateUpdated": "2021-05-16T14:04:20.010Z",
+    "dateDismissed": "2021-05-16T14:04:20.010Z",
     "title": "Craig Mod - Roden",
     "tags": [
       "writing",
@@ -158,7 +158,7 @@
     ],
     "duration": 1,
     "interval": "months",
-    "visited": 9,
+    "visited": 10,
     "timeRange": 80,
     "url": "https://craigmod.com/roden"
   },
@@ -184,8 +184,8 @@
     "id": "0f5ccc9e-2808-4fa0-ac45-10d2f7eb73be",
     "content": {},
     "dateAdded": "2020-04-08T15:31:06.650Z",
-    "dateUpdated": "2021-04-05T12:34:21.822Z",
-    "dateDismissed": "2021-04-05T12:34:21.822Z",
+    "dateUpdated": "2021-05-16T14:04:24.325Z",
+    "dateDismissed": "2021-05-16T14:04:24.325Z",
     "title": "DOP",
     "tags": [
       "images",
@@ -195,7 +195,7 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 9,
+    "visited": 10,
     "timeRange": 71,
     "url": "https://doorofperception.com/page/2"
   },
@@ -290,8 +290,8 @@
     "id": "9144d0db-c756-4d92-ba54-bd33c70651b4",
     "content": {},
     "dateAdded": "2021-01-12T22:35:08.647Z",
-    "dateUpdated": "2021-04-22T20:22:32.852Z",
-    "dateDismissed": "2021-04-22T20:22:32.852Z",
+    "dateUpdated": "2021-05-30T18:23:39.571Z",
+    "dateDismissed": "2021-05-30T18:23:39.571Z",
     "title": "Reasons to be cheerful",
     "tags": [
       "news",
@@ -300,7 +300,7 @@
     ],
     "duration": 2,
     "interval": "weeks",
-    "visited": 6,
+    "visited": 8,
     "timeRange": 66,
     "url": "https://reasonstobecheerful.world"
   },
@@ -308,8 +308,8 @@
     "id": "f68db81f-2fb4-4540-bdd6-cd4589c9b7c1",
     "content": {},
     "dateAdded": "2021-01-30T14:26:25.832Z",
-    "dateUpdated": "2021-03-29T18:37:07.359Z",
-    "dateDismissed": "2021-03-29T18:37:07.359Z",
+    "dateUpdated": "2021-05-16T14:04:26.458Z",
+    "dateDismissed": "2021-05-16T14:04:26.458Z",
     "title": "Collletttivo",
     "tags": [
       "typography",
@@ -317,7 +317,7 @@
     ],
     "duration": 4,
     "interval": "weeks",
-    "visited": 3,
+    "visited": 4,
     "timeRange": 72,
     "url": "http://collletttivo.it"
   },
@@ -343,8 +343,8 @@
     "id": "347b4292-31f3-4676-87d8-983a36c16cff",
     "content": {},
     "dateAdded": "2021-02-07T20:12:42.339Z",
-    "dateUpdated": "2021-03-22T10:59:17.264Z",
-    "dateDismissed": "2021-03-22T10:59:17.264Z",
+    "dateUpdated": "2021-05-16T14:04:25.120Z",
+    "dateDismissed": "2021-05-16T14:04:25.121Z",
     "title": "Climate & Mind",
     "tags": [
       "climate",
@@ -354,7 +354,7 @@
     ],
     "duration": 6,
     "interval": "weeks",
-    "visited": 2,
+    "visited": 3,
     "timeRange": 77,
     "url": "https://climateandmind.org"
   },
@@ -362,15 +362,15 @@
     "id": "66c27081-70b9-46f2-9976-694b5a47bab3",
     "content": {},
     "dateAdded": "2021-02-07T20:21:20.964Z",
-    "dateUpdated": "2021-04-22T20:22:28.058Z",
-    "dateDismissed": "2021-04-22T20:22:28.058Z",
+    "dateUpdated": "2021-05-16T14:04:20.538Z",
+    "dateDismissed": "2021-05-16T14:04:20.538Z",
     "title": "The Walrus",
     "tags": [
       "Newspaper"
     ],
     "duration": 2,
     "interval": "weeks",
-    "visited": 5,
+    "visited": 6,
     "timeRange": 66,
     "url": "https://thewalrus.ca"
   },
@@ -382,21 +382,21 @@
     ],
     "duration": 1,
     "interval": "months",
-    "visited": 3,
+    "visited": 4,
     "timeRange": 81,
     "url": "https://jacobinmag.com",
     "id": "47d77ed9-31e5-4924-8930-e80c4b031ba7",
     "content": {},
     "dateAdded": "2021-02-09T19:53:46.407Z",
-    "dateUpdated": "2021-04-22T20:30:57.287Z",
-    "dateDismissed": "2021-04-22T20:30:57.287Z"
+    "dateUpdated": "2021-05-25T08:03:05.074Z",
+    "dateDismissed": "2021-05-25T08:03:05.074Z"
   },
   "69bbd401-01a6-45ac-9edc-6e2d3472015c": {
     "id": "69bbd401-01a6-45ac-9edc-6e2d3472015c",
     "content": {},
     "dateAdded": "2021-02-28T13:12:31.348Z",
-    "dateUpdated": "2021-05-02T15:35:57.393Z",
-    "dateDismissed": "2021-05-02T15:35:57.393Z",
+    "dateUpdated": "2021-05-25T07:56:54.526Z",
+    "dateDismissed": "2021-05-25T07:56:54.526Z",
     "title": "Massive Science",
     "tags": [
       "science",
@@ -405,7 +405,7 @@
     ],
     "duration": 1,
     "interval": "weeks",
-    "visited": 7,
+    "visited": 9,
     "timeRange": 63,
     "url": "https://massivesci.com"
   },
@@ -418,14 +418,14 @@
     ],
     "duration": 7,
     "interval": "days",
-    "visited": 4,
+    "visited": 5,
     "timeRange": 20,
     "url": "https://99u.adobe.com",
     "id": "9ce06aca-a047-4675-93ec-f3318856ee7d",
     "content": {},
     "dateAdded": "2021-02-28T13:23:03.310Z",
-    "dateUpdated": "2021-03-30T13:24:46.399Z",
-    "dateDismissed": "2021-03-30T13:24:46.399Z"
+    "dateUpdated": "2021-05-16T14:04:27.921Z",
+    "dateDismissed": "2021-05-16T14:04:27.921Z"
   },
   "77c455a3-5961-4855-9842-759f645f2057": {
     "title": "The Creative Independent",
@@ -437,14 +437,14 @@
     ],
     "duration": 1,
     "interval": "weeks",
-    "visited": 3,
+    "visited": 6,
     "timeRange": 63,
     "url": "https://thecreativeindependent.com",
     "id": "77c455a3-5961-4855-9842-759f645f2057",
     "content": {},
     "dateAdded": "2021-03-22T13:43:55.785Z",
-    "dateUpdated": "2021-05-02T20:34:30.031Z",
-    "dateDismissed": "2021-05-02T20:34:30.031Z"
+    "dateUpdated": "2021-05-30T18:24:13.114Z",
+    "dateDismissed": "2021-05-30T18:24:13.114Z"
   },
   "adb6f8d2-dc7a-4f94-b82a-782c289f5850": {
     "id": "adb6f8d2-dc7a-4f94-b82a-782c289f5850",
@@ -467,8 +467,8 @@
     "id": "e9edd026-128c-45e0-ad81-832b1a821e1e",
     "content": {},
     "dateAdded": "2021-04-05T12:34:18.987Z",
-    "dateUpdated": "2021-04-23T19:42:13.767Z",
-    "dateDismissed": "2021-04-23T19:42:13.767Z",
+    "dateUpdated": "2021-05-16T14:04:18.861Z",
+    "dateDismissed": "2021-05-16T14:04:18.861Z",
     "title": "Mold",
     "tags": [
       "design",
@@ -478,7 +478,7 @@
     ],
     "duration": 18,
     "interval": "days",
-    "visited": 2,
+    "visited": 3,
     "timeRange": 36,
     "url": "https://thisismold.com"
   },
@@ -504,8 +504,8 @@
     "id": "76035bb9-14db-420b-9529-1d1bbbf0b166",
     "content": {},
     "dateAdded": "2021-04-25T15:27:07.692Z",
-    "dateUpdated": "2021-04-25T15:27:58.962Z",
-    "dateDismissed": "2021-04-25T15:27:58.962Z",
+    "dateUpdated": "2021-05-25T07:54:39.404Z",
+    "dateDismissed": "2021-05-25T07:54:39.404Z",
     "title": "glass—bead",
     "tags": [
       "research",
@@ -515,7 +515,7 @@
     ],
     "duration": 30,
     "interval": "days",
-    "visited": 1,
+    "visited": 2,
     "timeRange": 59,
     "url": "https://glass-bead.org/about/?lang=enview"
   },
@@ -523,8 +523,8 @@
     "id": "6597a645-d6be-4d64-8e75-d9ed54f7ea3d",
     "content": {},
     "dateAdded": "2021-04-25T16:24:55.794Z",
-    "dateUpdated": "2021-05-02T15:35:27.147Z",
-    "dateDismissed": "2021-05-02T15:35:27.147Z",
+    "dateUpdated": "2021-05-23T10:11:59.694Z",
+    "dateDismissed": "2021-05-23T10:11:59.694Z",
     "title": "The Avery Review",
     "tags": [
       "social",
@@ -533,7 +533,7 @@
     ],
     "duration": 7,
     "interval": "days",
-    "visited": 2,
+    "visited": 4,
     "timeRange": 20,
     "url": "https://averyreview.com"
   },
@@ -590,5 +590,23 @@
     "visited": 1,
     "timeRange": 81,
     "url": "https://europeanreviewofbooks.com"
+  },
+  "9f78a253-4cee-4561-ba42-bd1b73539b51": {
+    "id": "9f78a253-4cee-4561-ba42-bd1b73539b51",
+    "content": {},
+    "dateAdded": "2021-05-30T18:24:07.781Z",
+    "dateUpdated": "2021-05-30T18:24:07.781Z",
+    "dateDismissed": "2011-05-30T18:24:07.781Z",
+    "title": "Nadia Eghbal",
+    "tags": [
+      "open source",
+      "software",
+      "research"
+    ],
+    "duration": 6,
+    "interval": "months",
+    "visited": 0,
+    "timeRange": 90,
+    "url": "https://nadiaeghbal.com"
   }
 }
